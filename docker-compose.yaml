@@ -1,0 +1,12 @@
+version: '3.9'
+
+services:
+  bolivar_app:
+    container_name: bolivar_app
+    image: bolivar-app:1.0.0
+    build: .
+    ports:
+      - 8080:8080
+    env_file:
+      - bolivar.env
+
