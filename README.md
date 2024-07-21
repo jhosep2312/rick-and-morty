@@ -1,7 +1,7 @@
 # **CONSTRUCTORA BOLIVAR**
 ## rick-and-morty
 
-This is the repo for bl-back-products at FARMU.
+This is the repo for rick-and-morty at Bolivar.
 
 ## Environment ⚙️
 The following are the required ENV Vars that must be set to run the project.
